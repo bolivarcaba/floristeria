@@ -47,3 +47,18 @@ and open the template in the editor.
        width: 30px;
    }
    
+   a:link, a:visited {
+       font-size: 25px;
+       background: chartreuse;
+       text-decoration: none;
+       
+   }
+   
+   a:hover {
+       background: blue;
+       color: chartreuse;
+   }
+   
+   #menu ul li:hover{
+       background: blue;
+   }
